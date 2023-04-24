@@ -1,4 +1,4 @@
-#  💪🏽 Felipe Lima
+#  🔎 Sobre mim:
 
 ##'Estudante a aspirante a desenvolvedor'##
 
