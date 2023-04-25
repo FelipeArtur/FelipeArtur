@@ -32,3 +32,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=FelipeArtur&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=FelipeArtur&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+<div>
+  <a href="[https://github.com/AlianeAmaral](https://github.com/AlianeAmaral)"> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlianeAmaral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlianeAmaral&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
