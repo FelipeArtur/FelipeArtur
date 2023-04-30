@@ -1,14 +1,21 @@
 ## Hello World 🌎 my name is <strong>{Felipe Lima}!</strong>
 
 <h3> 💪🏽 About me </h3>
+
 - 🇧🇷 I am an undergraduate student of Computer Engineering from Brazil. Currently, I am attending the seventh semester.
+
 - 🎯 Focusing on studying web and mobile development technologies.
+
 - 🔎 I am currently seeking job opportunities and looking forward to finding a role that will be both fulfilling and challenging.
+
 - 🔭 I am currently part of the UP2RV research project - Usability and Product Perception in VR, which aims to develop a method that combines virtual reality, eye tracking, and brain signal reading.
 
 <h3> 📱 Contact me through </h3>
+
 [![Linkedin: Felipe Lima](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeartur/)](https://www.linkedin.com/in/felipeartur/)
+
 [![Gmail Badge](https://img.shields.io/badge/-felipe.artur.ml@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.artur.ml@gmail.com)](mailto:felipe.artur.ml@gmail.com)
+
 [![GitHub Felipe Lima](https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/FelipeArtur)
 
 <h3> 🧰 My Skills </h3>
