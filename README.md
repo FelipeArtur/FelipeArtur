@@ -1,14 +1,17 @@
-# Hello World 🌎, i'm Felipe Lima!
+# Hello World 🌎
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+My name is Felipe Lima, and I'm from Brazil (🇧🇷). I am pursuing a degree in Computer Engineering at Centro Universitário SENAI CIMATEC and I am currently attending the seventh semester. Currently i am focusing on studying web and mobile development technologies.
 
-## 📱 Contacts
+## 📱 Please feel free to reach out to me
 
-(Botão 1) - (Botão 2) - (Botão 3) - (Botão 4) - (Botão 5)
+<div align="center" style="display: inline_block"><br>
+  <a href = "mailto:felipe.artur.ml@gmail.com "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipeartur/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ---
 
-## 🧰 Ferramentas
+## 🧰 Skills
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Icone-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,6 +23,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <img align="center" alt="Icone-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Icone-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
+---
+
+## 📖 Learning
 
 ---
 
