@@ -9,13 +9,14 @@
 
 <h3> 📱 Contact me through </h3>
 
-[![Linkedin: Felipe Lima](https://img.shields.io/badge/-FelipeLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeartur/)](https://www.linkedin.com/in/felipeartur/)
+[![Linkedin: Felipe Lima](https://img.shields.io/badge/-Felipe-Lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeartur/)](https://www.linkedin.com/in/felipeartur/)
 [![Gmail Badge](https://img.shields.io/badge/-felipe.artur.ml@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.artur.ml@gmail.com)](mailto:felipe.artur.ml@gmail.com)
 [![GitHub Felipe Lima](https://img.shields.io/github/followers/FelipeArtur?label=follow&style=social)](https://github.com/FelipeArtur)
 
 <h3> 🧰 My Skills </h3>
 
 **Application and Data**
+
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -24,10 +25,12 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **DevOps**
+
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 **Development Tools**
+
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
@@ -41,7 +44,6 @@
 <h3> 📊 Status </h3>
 
 ![](https://komarev.com/ghpvc/?username=FelipeArtur&color=006bed)
-
 <div align="center" style="display: inline_block">
   <a href="[https://github.com/FelipeArtur](https://github.com/FelipeArtur)">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FelipeArtur&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"/> 
