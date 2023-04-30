@@ -9,7 +9,7 @@
 
 <h3> 📱 Contact me through </h3>
 
-[![Linkedin: Felipe Lima](https://img.shields.io/badge/-Felipe-Lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeartur/)](https://www.linkedin.com/in/felipeartur/)
+[![Linkedin: Felipe Lima](https://img.shields.io/badge/-FelipeLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeartur/)](https://www.linkedin.com/in/felipeartur/)
 [![Gmail Badge](https://img.shields.io/badge/-felipe.artur.ml@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.artur.ml@gmail.com)](mailto:felipe.artur.ml@gmail.com)
 [![GitHub Felipe Lima](https://img.shields.io/github/followers/FelipeArtur?label=follow&style=social)](https://github.com/FelipeArtur)
 
