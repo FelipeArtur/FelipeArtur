@@ -1,9 +1,9 @@
 # Hello World 🌎, my name is Felipe Lima and I'm from Brazil 🇧🇷.
 
-I'm an undergraduate student of Computer Engineering, currently attending the seventh semester and focusing on studying web and mobile development technologies
+## 🔎 About me
+### I'm an undergraduate student of Computer Engineering, currently attending the seventh semester and focusing on studying web and mobile development technologies
 
-## 📱 Feel free to reach out to me
-
+## 📱 Contact me through
 <div align="center" style="display: inline_block"><br>
   <a href = "mailto:felipe.artur.ml@gmail.com "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipeartur/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -12,7 +12,6 @@ I'm an undergraduate student of Computer Engineering, currently attending the se
 ---
 
 ## 🧰 Skills
-
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Icone-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Icone-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -27,11 +26,9 @@ I'm an undergraduate student of Computer Engineering, currently attending the se
 ---
 
 ## 📖 Learning
-
 ---
 
 ## 📊 Status
-
 <div align="center" style="display: inline_block">
   <a href="[https://github.com/FelipeArtur](https://github.com/FelipeArtur)">
 
@@ -39,5 +36,3 @@ I'm an undergraduate student of Computer Engineering, currently attending the se
   
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeArtur&hide_progress=true&langs_count=16&theme=dark"/>
 </div>
-
----
