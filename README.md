@@ -3,22 +3,18 @@
 <h3> 💪🏽 About me </h3>
 
 - 🇧🇷 I am an undergraduate student of Computer Engineering from Brazil. Currently, I am attending the seventh semester.
-
 - 🎯 Focusing on studying web and mobile development technologies.
-
 - 🔎 I am currently seeking job opportunities and looking forward to finding a role that will be both fulfilling and challenging.
-
 - 🔭 I am currently part of the UP2RV research project - Usability and Product Perception in VR, which aims to develop a method that combines virtual reality, eye tracking, and brain signal reading.
 
 <h3> 📱 Contact me through </h3>
 
-[![Linkedin: Felipe Lima](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeartur/)](https://www.linkedin.com/in/felipeartur/)
-
+[![Linkedin: Felipe Lima](https://img.shields.io/badge/-Felipe Lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeartur/)](https://www.linkedin.com/in/felipeartur/)
 [![Gmail Badge](https://img.shields.io/badge/-felipe.artur.ml@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.artur.ml@gmail.com)](mailto:felipe.artur.ml@gmail.com)
-
-[![GitHub Felipe Lima](https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/FelipeArtur)
+[![GitHub Felipe Lima](https://img.shields.io/github/followers/FelipeArtur?label=follow&style=social)](https://github.com/FelipeArtur)
 
 <h3> 🧰 My Skills </h3>
+
 **Application and Data**
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -37,11 +33,13 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   
 <h3> 📖 What I'm learning </h3>
+
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 <h3> 📊 Status </h3>
+
 ![](https://komarev.com/ghpvc/?username=FelipeArtur&color=#8f261e)
 
 <div align="center" style="display: inline_block">
