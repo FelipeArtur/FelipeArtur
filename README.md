@@ -9,7 +9,7 @@
 
 <h3> 📱 Contact me through </h3>
 
-[![Linkedin: Felipe Lima](https://img.shields.io/badge/-Felipe Lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeartur/)](https://www.linkedin.com/in/felipeartur/)
+[![Linkedin: Felipe Lima](https://img.shields.io/badge/-FelipeLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeartur/)](https://www.linkedin.com/in/felipeartur/)
 [![Gmail Badge](https://img.shields.io/badge/-felipe.artur.ml@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.artur.ml@gmail.com)](mailto:felipe.artur.ml@gmail.com)
 [![GitHub Felipe Lima](https://img.shields.io/github/followers/FelipeArtur?label=follow&style=social)](https://github.com/FelipeArtur)
 
@@ -40,12 +40,10 @@
 
 <h3> 📊 Status </h3>
 
-![](https://komarev.com/ghpvc/?username=FelipeArtur&color=#8f261e)
+![](https://komarev.com/ghpvc/?username=FelipeArtur&color=006bed)
 
 <div align="center" style="display: inline_block">
   <a href="[https://github.com/FelipeArtur](https://github.com/FelipeArtur)">
-
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FelipeArtur&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"/> 
-  
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeArtur&hide_progress=true&langs_count=16&theme=dark"/>
 </div>
