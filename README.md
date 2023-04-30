@@ -1,10 +1,8 @@
-# Hello World 🌎
+# Hello World 🌎, my name is Felipe Lima and I'm from Brazil 🇧🇷.
 
-* My name is Felipe Lima, and I'm from Brazil 🇧🇷.
-* I am pursuing a degree in Computer Engineering at Centro Universitário SENAI CIMATEC and I am currently attending the seventh semester. 
-* Currently i am focusing on studying web and mobile development technologies.
+I'm an undergraduate student of Computer Engineering, currently attending the seventh semester and focusing on studying web and mobile development technologies
 
-## 📱 Please feel free to reach out to me
+## 📱 Feel free to reach out to me
 
 <div align="center" style="display: inline_block"><br>
   <a href = "mailto:felipe.artur.ml@gmail.com "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
