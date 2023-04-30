@@ -1,7 +1,8 @@
-# Hello World 🌎, my name is Felipe Lima and I'm from Brazil 🇧🇷.
+# Hello World 🌎!
 
 ## 🔎 About me
-### I'm an undergraduate student of Computer Engineering, currently attending the seventh semester and focusing on studying web and mobile development technologies
+### - My name is Felipe Lima and I'm from Brazil 🇧🇷.
+### - I'm an undergraduate student of Computer Engineering, currently attending the seventh semester and focusing on studying web and mobile development technologies
 
 ## 📱 Contact me through
 <div align="center" style="display: inline_block"><br>
