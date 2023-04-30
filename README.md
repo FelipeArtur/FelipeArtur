@@ -9,20 +9,21 @@
 
 <h3> 📱 Contact me through </h3>
 
-[![Linkedin: Felipe Lima](https://img.shields.io/badge/-FelipeLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeartur/)](https://www.linkedin.com/in/felipeartur/)
+[![Linkedin: Felipe Lima](https://img.shields.io/badge/-FelipeArtur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeartur/)](https://www.linkedin.com/in/felipeartur/)
 [![Gmail Badge](https://img.shields.io/badge/-felipe.artur.ml@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.artur.ml@gmail.com)](mailto:felipe.artur.ml@gmail.com)
-[![GitHub Felipe Lima](https://img.shields.io/github/followers/FelipeArtur?label=follow&style=social)](https://github.com/FelipeArtur)
+[![GitHub Felipe Lima](https://img.shields.io/github/followers/FelipeArtur?label=FelipeArtur&style=social)](https://github.com/FelipeArtur)
 
 <h3> 🧰 My Skills </h3>
 
 **Application and Data**
 
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **DevOps**
 
@@ -34,12 +35,21 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  
+  ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)
+ 
+**Operating System**
+
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
 <h3> 📖 What I'm learning </h3>
 
+  ![Unreal Engine 4](https://img.shields.io/badge/-Unreal%20Engine%204-0E1128?style=flat&logo=unreal-engine&logoColor=white)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
 
 <h3> 📊 Status </h3>
 
