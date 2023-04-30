@@ -1,4 +1,4 @@
-## Hello World, 🌎 my name is <strong>Felipe Lima!</strong>
+## Hello World, 🌎 my name is Felipe Lima!
 
 <h3> 💪🏽 About me </h3>
 
