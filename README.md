@@ -1,6 +1,8 @@
 # Hello World 🌎
 
-My name is Felipe Lima, and I'm from Brazil (🇧🇷). I am pursuing a degree in Computer Engineering at Centro Universitário SENAI CIMATEC and I am currently attending the seventh semester. Currently i am focusing on studying web and mobile development technologies.
+* My name is Felipe Lima, and I'm from Brazil (🇧🇷). 
+* I am pursuing a degree in Computer Engineering at Centro Universitário SENAI CIMATEC and I am currently attending the seventh semester. 
+* Currently i am focusing on studying web and mobile development technologies.
 
 ## 📱 Please feel free to reach out to me
 
