@@ -33,9 +33,8 @@
 **Development Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)
+  ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
  
 **Operating System**
 
@@ -44,11 +43,20 @@
 
 <h3> 📖 What I'm learning </h3>
 
-  ![Unreal Engine 4](https://img.shields.io/badge/-Unreal%20Engine%204-0E1128?style=flat&logo=unreal-engine&logoColor=white)
+**Application and Data**
+
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+  
+**DevOps**
+
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  
+**Development Tools**
+
+  ![Unreal Engine 4](https://img.shields.io/badge/-Unreal%20Engine%204-0E1128?style=flat&logo=unreal-engine&logoColor=white)
 
 <h3> 📊 Status </h3>
 
