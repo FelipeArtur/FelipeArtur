@@ -49,7 +49,6 @@
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
 
 <h3> 📊 Status </h3>
 
