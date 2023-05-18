@@ -9,7 +9,7 @@
 
 **Operating System**
 
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-4EAA25?style=flat&logo=arch-linux&logoColor=white)
   ![Windows 11 Pro](https://img.shields.io/badge/Windows-11%20Pro-2376BC?style=flat&logo=windows&logoColor=white)
   ![WSL 2](https://img.shields.io/badge/WSL-2-2376BC?style=flat&logo=windows-terminal&logoColor=white)
 
