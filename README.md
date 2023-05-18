@@ -7,6 +7,11 @@
 - 🔎 I am currently seeking job opportunities and looking forward to finding a role that will be both fulfilling and challenging.
 - 🔭 I am currently part of the UP2RV research project - Usability and Product Perception in VR, which aims to develop a method that combines virtual reality, eye tracking, and brain signal reading.
 
+**Operating System**
+
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
 <h3> 📱 Contact me through </h3>
 
 [![Linkedin: Felipe Lima](https://img.shields.io/badge/-FelipeArtur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeartur/)](https://www.linkedin.com/in/felipeartur/)
@@ -15,8 +20,6 @@
 
 <h3> 🧰 My Skills </h3>
 
-**Application and Data**
-
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -24,41 +27,18 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**DevOps**
-
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-**Development Tools**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
- 
-**Operating System**
-
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-  ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-
 <h3> 📖 What I'm learning </h3>
-
-**Application and Data**
 
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-  
-**DevOps**
-
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  
-**Development Tools**
-
-  ![Unreal Engine 4](https://img.shields.io/badge/-Unreal%20Engine%204-0E1128?style=flat&logo=unreal-engine&logoColor=white)
+  ![Unreal Engine 4.27](https://img.shields.io/badge/Unreal%20Engine-4.27-0E1128?style=flat&logo=unreal-engine&logoColor=white)
 
 <h3> 📊 Status </h3>
 
