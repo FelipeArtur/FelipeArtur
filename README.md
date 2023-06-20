@@ -2,7 +2,7 @@
 
 <h3> 💪🏽 About me </h3>
 
-- I am an undergraduate student of Computer Engineering from Brazil. Currently, I am attending the seventh semester.
+- 🇧🇷 I am an undergraduate student of Computer Engineering from Brazil. Currently, I am attending the seventh semester.
 - 🎯 Focusing on studying web and mobile development technologies.
 - 🔎 I am currently seeking job opportunities and looking forward to finding a role that will be both fulfilling and challenging.
 - 🔭 I am currently part of the UP2RV research project - Usability and Product Perception in VR, which aims to develop a method that combines virtual reality, eye tracking, and brain signal reading.
@@ -36,9 +36,6 @@
 
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Unreal Engine 4.27](https://img.shields.io/badge/Unreal%20Engine-4.27-0E1128?style=flat&logo=unreal-engine&logoColor=white)
 
