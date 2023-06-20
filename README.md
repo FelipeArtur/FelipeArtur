@@ -3,13 +3,12 @@
 <h3> 💪🏽 About me </h3>
 
 - 🇧🇷 I am an undergraduate student of Computer Engineering from Brazil. Currently, I am attending the seventh semester.
-- 🎯 Focusing on studying web and mobile development technologies.
+- 🎯 Focusing on studying back - end development technologies.
 - 🔎 I am currently seeking job opportunities and looking forward to finding a role that will be both fulfilling and challenging.
 - 🔭 I am currently part of the UP2RV research project - Usability and Product Perception in VR, which aims to develop a method that combines virtual reality, eye tracking, and brain signal reading.
 
 **Operating System**
 
-  ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-4EAA25?style=flat&logo=arch-linux&logoColor=white)
   ![Windows 11](https://img.shields.io/badge/Windows-11-2376BC?style=flat&logo=windows&logoColor=white)
   ![WSL 2](https://img.shields.io/badge/WSL-2-2376BC?style=flat&logo=windows-terminal&logoColor=white)
 
@@ -22,22 +21,22 @@
 
 <h3> 🧰 My Skills </h3>
 
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
+  [![C](https://img.shields.io/badge/C-<version>-A8B9CC?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+  [![C#](https://img.shields.io/badge/C%23-<version>-239120?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+  [![Java](https://img.shields.io/badge/Java-<version>-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-<version>-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![HTML](https://img.shields.io/badge/HTML-<version>-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [![CSS](https://img.shields.io/badge/CSS-<version>-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [![Python](https://img.shields.io/badge/Python-<version>-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+  [![Git](https://img.shields.io/badge/Git-<version>-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+  [![MySQL](https://img.shields.io/badge/MySQL-<version>-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+  
 <h3> 📖 What I'm learning </h3>
 
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Unreal Engine 4.27](https://img.shields.io/badge/Unreal%20Engine-4.27-0E1128?style=flat&logo=unreal-engine&logoColor=white)
+  [![Docker](https://img.shields.io/badge/Docker-20.10-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+  [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-4.27-0E1128?style=flat&logo=unreal-engine&logoColor=white)](https://www.unrealengine.com/)
+  [![MongoDB](https://img.shields.io/badge/MongoDB-4.4-green?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
 
 <h3> 📊 Status </h3>
 
