@@ -2,7 +2,7 @@
 
 <h3> 💪🏽 About me </h3>
 
-- 🇧🇷 I am an undergraduate student of Computer Engineering from Brazil.
+- I am an undergraduate student of Computer Engineering from Brazil.
 - 🎯 Focusing on studying back - end development technologies.
 - 🔎 I am currently seeking job opportunities and looking forward to finding a role that will be both fulfilling and challenging.
 - 🔭 I am currently part of the UP2RV research project - Usability and Product Perception in VR, which aims to develop a method that combines virtual reality, eye tracking, and brain signal reading.
