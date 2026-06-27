@@ -4,8 +4,6 @@
   My name is <strong style="color: #E53935">Felipe Artur</strong> — Computer
   Engineer specializing in <strong>Data Science &amp; Analytics</strong>,
   working as an Embedded Software Engineer @ SENAI CIMATEC.<br />
-  I build firmware and design software architecture, turning academic research
-  into robust technical solutions.
 </p>
 
 <hr
