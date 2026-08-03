@@ -1,8 +1,6 @@
-<img src="assets/signal.svg" alt="" width="100%">
+<img src="assets/signal.svg" alt="Felipe Artur — Embedded Software Engineer, Salvador, Bahia" width="100%">
 
 # Felipe Artur
-
-**Embedded Software Engineer @ SENAI CIMATEC** · Salvador, Bahia 🇧🇷
 
 Computer Engineer working on embedded systems, currently deepening into data
 science and analytics. Most of what I build starts at the boundary where the
