@@ -23,7 +23,7 @@ The pinned repositories below are what I'd point at first.
 
 ### Coursework
 
-Assignments from my Computer Engineering degree at SENAI CIMATEC (2020.1–2024)
+Assignments from my Computer Engineering degree at SENAI CIMATEC (2020.1–2025)
 live in their own repositories, each with a README explaining what the work does
 and how to run it — data structures, operating systems, graph theory, databases,
 signal processing and the VR research prototypes. They are tagged
