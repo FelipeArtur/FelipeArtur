@@ -1,6 +1,4 @@
-<img src="assets/signal.svg" alt="Felipe Artur — Computer Engineer, Salvador, Bahia" width="100%">
-
-Computer Engineer in Salvador, Brazil. I like products that touch the physical
+Computer Engineer. I like products that touch the physical
 world: the firmware on the board, the service that collects what it measures,
 and the screen where someone finally reads it. Most of the fun is where two of
 those meet.
@@ -38,22 +36,6 @@ on top of it.
 | **Web** | TypeScript, React, Django REST, Flask, PostgreSQL, SQLite, JWT |
 | **Data** | SQL by hand, relational modelling, pandas, Power BI and DAX, InfluxDB, TensorFlow, PyTorch |
 | **Infrastructure** | Linux, Docker, systemd, embedded Linux on Toradex, shell, CI |
-
-### Things I keep around
-
-**[BrokerShark](https://github.com/FelipeArtur/BrokerShark)** answers one
-question — how much can I spend right now — and never leaves my machine. The
-financial invariants live as a query the audit runs against the real database,
-so the rule sits in one place instead of scattered through the app. Money in
-integer cents, no floats anywhere near the ledger.
-
-**[nb2pdf](https://github.com/FelipeArtur/nb2pdf)** turns notebooks and
-print-ready HTML into paginated PDF from the terminal, no LaTeX involved. One
-file, and it installs nothing into your Python.
-
-**[delivery-sql](https://github.com/FelipeArtur/delivery-sql)** is a delivery app
-modelled in 16 tables and written twice, once in Oracle and once in MySQL.
-Watching the same model diverge across dialects was half the exercise.
 
 ### Also
 
