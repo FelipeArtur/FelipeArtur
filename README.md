@@ -58,14 +58,8 @@
 
 ---
 
-### 📈 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeArtur&amp;layout=compact&amp;theme=transparent&amp;hide_border=true" alt="Languages in my public GitHub repositories">
-</p>
-
----
-
 ### 📝 Recent projects
+
+- **[AI Usage for Noctalia](https://github.com/noctalia-dev/community-plugins/tree/main/ai-usagebar)**: my Luau plugin displays AI plan usage and quota reset times in the Noctalia bar and panel. Published in the official plugin registry, it reads data from [akitaonrails/ai-usagebar](https://github.com/akitaonrails/ai-usagebar).
 
 - **[paginar](https://github.com/FelipeArtur/paginar)**: a Python tool for converting HTML documents and Jupyter notebooks to PDF from the terminal, using Chromium without LaTeX.
