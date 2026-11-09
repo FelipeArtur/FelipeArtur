@@ -11,11 +11,11 @@
 
 ### 👨‍💻 About me
 
-- 🎓 I'm a Computer Engineering graduate, currently specializing in Data Science & Analytics at SENAI CIMATEC.
-- 🔧 My embedded work includes C++ firmware, STM32, and touchscreen interfaces for medical equipment.
-- 🌐 I've built Python APIs and React dashboards for telemetry, with authentication and data visualization.
-- 📊 I've worked with data acquisition and Power BI dashboards. My current coursework covers statistics, data processing, and machine learning.
-- 🐧 I use Linux for development and self-hosting, with Docker and scripts to automate setup and routine tasks.
+- 🎓 I have a degree in Computer Engineering and I'm studying Data Science & Analytics at SENAI CIMATEC.
+- 🔧 I've developed C++ firmware for medical equipment on STM32, including touchscreen interfaces.
+- 🌐 I've built telemetry systems with Python APIs and React dashboards, handling authentication and data visualization.
+- 📊 My data work includes acquisition systems and Power BI dashboards. I'm studying statistics, data processing, and machine learning in my postgraduate course.
+- 🐧 I develop on Linux and run my own services, using Docker and scripts to automate setup and everyday tasks.
 
 ---
 
@@ -54,12 +54,12 @@
   <img width="12" alt="">
 </p>
 
-<p align="center">Also worked with STM32, FreeRTOS, LVGL, and Power BI.</p>
+<p align="center">I've also used STM32, FreeRTOS, LVGL, and Power BI.</p>
 
 ---
 
 ### 📝 Recent projects
 
-- **[AI Usage for Noctalia](https://github.com/noctalia-dev/community-plugins/tree/main/ai-usagebar)**: my Luau plugin displays AI plan usage and quota reset times in the Noctalia bar and panel. Published in the official plugin registry, it reads data from [akitaonrails/ai-usagebar](https://github.com/akitaonrails/ai-usagebar).
+- **[AI Usage for Noctalia](https://github.com/noctalia-dev/community-plugins/tree/main/ai-usagebar)**: I wrote this Luau plugin to show AI plan usage and quota reset times in Noctalia's bar and panel. It's available in the official plugin registry and reads data from [akitaonrails/ai-usagebar](https://github.com/akitaonrails/ai-usagebar).
 
-- **[paginar](https://github.com/FelipeArtur/paginar)**: a Python tool for converting HTML documents and Jupyter notebooks to PDF from the terminal, using Chromium without LaTeX.
+- **[paginar](https://github.com/FelipeArtur/paginar)**: I built this Python tool to turn HTML documents and Jupyter notebooks into PDFs from the terminal. It uses Chromium and doesn't require LaTeX.
