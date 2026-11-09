@@ -1,20 +1,20 @@
 # Felipe Artur
 
-**Software developer · Computer Engineer**
+Software developer · Computer engineer
 
-I build software that connects hardware, interfaces, and data. My experience includes embedded C++ for medical equipment, Python backends, and web dashboards.
+I develop embedded software in C++ for medical equipment. I also work with Python backends and web dashboards, connecting hardware, interfaces, and data.
 
-Currently pursuing a postgraduate specialization in **Data Science & Analytics**.
+I'm currently pursuing a postgraduate specialization in Data Science & Analytics.
 
 ### What I work with
 
-- **Embedded:** C++, STM32, FreeRTOS, LVGL.
-- **Backend & interfaces:** Python, Django REST, React, TypeScript.
-- **Tools:** Linux, Docker, Git.
+- Embedded: C++, STM32, FreeRTOS, LVGL.
+- Backend & interfaces: Python, Django REST, React, TypeScript.
+- Tools: Linux, Docker, Git.
 
-### Built for everyday use
+### Personal project
 
-[**paginar**](https://github.com/FelipeArtur/paginar) — A command-line tool that turns HTML documents and Jupyter notebooks into PDFs using Chromium.
+[paginar](https://github.com/FelipeArtur/paginar): a command-line tool that turns HTML documents and Jupyter notebooks into PDFs using Chromium.
 
 ---
 
