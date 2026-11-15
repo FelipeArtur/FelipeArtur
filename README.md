@@ -15,7 +15,7 @@
 
 ---
 
-My work spans firmware and web software. I've built systems for medical equipment and industrial telemetry, plus web apps and data tools. With a degree in Computer Engineering, I'm now studying Data Science & Analytics at SENAI CIMATEC.
+My work spans firmware and web software. I've built systems for medical equipment and industrial telemetry, plus web apps and data tools. With a degree in Computer Engineering, I'm now doing a postgraduate specialization in Data Science & Analytics at SENAI CIMATEC.
 
 #### Now
 
