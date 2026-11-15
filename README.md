@@ -1,52 +1,30 @@
-<picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/terminal-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/terminal-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
-  <img src="assets/terminal-light.svg" width="820" alt="Felipe Artur's terminal: computer engineer and software developer working with embedded systems, web, data, and Linux. Projects: AI Usage for Noctalia and paginar. Expand the text version below for details.">
-</picture>
+<h3 align="center">Hi, I'm Felipe Artur 🤙🏾</h3>
 
-<p>
-  <a href="https://github.com/noctalia-dev/community-plugins/tree/main/ai-usagebar"><samp>ai-usagebar</samp></a>
-  &nbsp;/&nbsp;
-  <a href="https://github.com/FelipeArtur/paginar"><samp>paginar</samp></a>
-  &nbsp;/&nbsp;
-  <a href="https://www.linkedin.com/in/felipeartur/"><samp>linkedin</samp></a>
-  &nbsp;/&nbsp;
-  <a href="mailto:felipe.artur.ml@gmail.com"><samp>email</samp></a>
+<p align="center">
+  <samp>computer engineer · building software since 2023</samp>
 </p>
 
-<details>
-<summary>Text version & project details</summary>
+<p align="center">
+  <samp>
+    <a href="https://github.com/FelipeArtur?tab=repositories">repositories</a> ·
+    <a href="https://www.linkedin.com/in/felipeartur/">linkedin</a> ·
+    <a href="https://lattes.cnpq.br/6913118138859197">lattes</a> ·
+    <a href="mailto:felipe.artur.ml@gmail.com">email</a>
+  </samp>
+</p>
 
-## About
+---
 
-I build software for embedded devices and the systems around them. My work includes C++ firmware and touchscreen interfaces for STM32-based medical equipment, telemetry systems with Python APIs, and React dashboards with authentication and data visualization.
+My work spans firmware and web software. I've built systems for medical equipment and industrial telemetry, plus web apps and data tools. With a degree in Computer Engineering, I'm now studying Data Science & Analytics at SENAI CIMATEC.
 
-I have a degree in Computer Engineering and I'm studying Data Science & Analytics at SENAI CIMATEC. My data work includes acquisition systems and Power BI dashboards; my postgraduate studies cover statistics, data processing, and machine learning.
+#### Now
 
-Linux is my everyday environment. I run my own services and use Docker and scripts to automate setup and routine tasks.
+- 🛠️ Building new projects
+- 💻 Contributing to open source
+- 📚 Studying data processing and machine learning
 
-## Projects
+---
 
-### [`ai-usagebar/`](https://github.com/noctalia-dev/community-plugins/tree/main/ai-usagebar)
-
-A Luau plugin I wrote for Noctalia's bar and panel. It shows AI plan usage and quota reset times, using data from [akitaonrails/ai-usagebar](https://github.com/akitaonrails/ai-usagebar). Available in the official Noctalia plugin registry.
-
-<sub>Luau · Noctalia · Linux</sub>
-
-### [`paginar/`](https://github.com/FelipeArtur/paginar)
-
-A Python command-line tool I built to turn HTML documents and Jupyter notebooks into PDFs. It uses Chromium and works without LaTeX.
-
-<sub>Python · Chromium · PDF</sub>
-
-## Technologies
-
-| Area | Technologies I've used |
-| :--- | :--- |
-| Embedded | `C` `C++` `STM32` `FreeRTOS` `LVGL` |
-| Web & APIs | `Python` `JavaScript` `TypeScript` `React` `Django` `Flask` |
-| Data | `SQLite` `PostgreSQL` `pandas` `Power BI` |
-| Environment | `Linux` `Docker` `Bash` `Git` |
-
-</details>
+<p align="center">
+  <samp>c++ · c · stm32 · python · react · sql · linux · docker</samp>
+</p>
